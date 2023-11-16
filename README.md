@@ -23,7 +23,7 @@ I'm a dedicated developer with experience in various technologies. Thank you for
 - C | C++ | Java
 - Python | JavaScript
 
-Explore more in my [GitHub Repositories](https://github.com/discipline101).
+Explore more in my [GitHub Repositories]([https://github.com/discipline101](https://github.com/discipline101?tab=repositories)).
 
 ## Let's Connect
 
