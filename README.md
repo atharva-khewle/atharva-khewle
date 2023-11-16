@@ -37,10 +37,6 @@ I'm a results-driven developer who thrives on creating exceptional user experien
 - Sharing affection with cats and dogs
 - Enjoying a thoughtfully brewed cup of coffee
 
-## Fun Facts
-
-- I firmly believe in the camaraderie between cats and dogs!
-- Coffee isn't just a beverage; it's my coding catalyst!
 
 ## GitHub Stats
 
