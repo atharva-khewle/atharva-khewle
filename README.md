@@ -7,17 +7,18 @@ I'm a dedicated developer with experience in various technologies. Thank you for
 ### Mobile App Development
 - Flutter | Dart
 
+
 ### Web Development
 - HTML | CSS | JavaScript
-- React.js | Next.js
+- React.js
 - jQuery
 - Tailwind CSS
 - Three.js | React Three Fiber
-- Firebase
-- Node.js
+
 
 ### Backend Development
 - Node.js
+- Firebase
 
 ### Programming Languages
 - C | C++ | Java
@@ -36,6 +37,7 @@ I'm a results-driven developer who thrives on creating exceptional user experien
 
 - Sharing affection with cats and dogs
 - Enjoying a thoughtfully brewed cup of coffee
+- Hitting the gym for a good workout
 
 
 ## GitHub Stats
