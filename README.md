@@ -1,6 +1,6 @@
 # Hello, I'm Atharva Khewle!
 
-I'm a dedicated developer with experience in various technologies. Thank you for visiting my GitHub profile!
+I'm a dedicated developer with experience in various technologies. Wlecome to my GitHub profile!
 
 ## Technologies & Tools
 
