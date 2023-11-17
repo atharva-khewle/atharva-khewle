@@ -35,8 +35,8 @@ Explore more in my [GitHub Repositories](https://github.com/discipline101?tab=re
 
 I'm a results-driven developer who thrives on creating exceptional user experiences. When I'm not immersed in code, you'll find me:
 
-- Sharing affection with cats and dogs
-- Enjoying a thoughtfully brewed cup of coffee
+- Playing with cats and dogs
+- Enjoying a cup of coffee
 - Hitting the gym for a good workout
 
 
