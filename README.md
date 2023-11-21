@@ -24,7 +24,7 @@ I'm a dedicated developer with experience in various technologies. Welcome to my
 - C | C++ | Java
 - Python | JavaScript
 
-Explore more in my [GitHub Repositories](https://github.com/discipline101?tab=repositories).
+Explore more in my [GitHub Repositories](https://github.com/atharva-khewle?tab=repositories).
 
 ## Let's Connect
 
