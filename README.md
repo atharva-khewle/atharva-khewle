@@ -6,6 +6,7 @@ I'm a dedicated developer with experience in various technologies. Welcome to my
 
 ### Mobile App Development
 - Flutter | Dart
+- Kotlin
 
 
 ### Web Development
@@ -19,6 +20,8 @@ I'm a dedicated developer with experience in various technologies. Welcome to my
 ### Backend Development
 - Node.js
 - Firebase
+- MongoDB
+- Express.js
 
 ### Programming Languages
 - C | C++ | Java
