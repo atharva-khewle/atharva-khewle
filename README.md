@@ -33,6 +33,7 @@ Explore more in my [GitHub Repositories](https://github.com/atharva-khewle?tab=r
 
 - LinkedIn: [Atharva Khewle](https://www.linkedin.com/in/atharvakhewle/)
 - Twitter: [@atharvamainwork](https://twitter.com/atharvamainwork)
+- Leetcode: [@atharvamainwork](https://leetcode.com/atharvamainwork/)
 
 ## About Me
 
