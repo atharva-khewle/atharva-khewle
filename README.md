@@ -32,8 +32,8 @@ Explore more in my [GitHub Repositories](https://github.com/atharva-khewle?tab=r
 ## Let's Connect
 
 - LinkedIn: [Atharva Khewle](https://www.linkedin.com/in/atharvakhewle/)
-- Twitter: [@atharvamainwork](https://twitter.com/atharvamainwork)
 - Leetcode: [@atharvamainwork](https://leetcode.com/atharvamainwork/)
+- Twitter: [@atharvamainwork](https://twitter.com/atharvamainwork)
 
 ## About Me
 
