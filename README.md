@@ -12,6 +12,7 @@ I'm a dedicated developer with experience in various technologies. Welcome to my
 ### Web Development
 - HTML | CSS | JavaScript
 - React.js
+- RESTful API
 - jQuery
 - Tailwind CSS
 - Three.js | React Three Fiber
