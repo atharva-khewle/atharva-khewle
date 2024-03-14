@@ -1,4 +1,4 @@
-# Hello, I'm Atharva Khewle!
+# Hi, I'm Atharva!
 
 I'm a dedicated developer with experience in various technologies. Welcome to my GitHub profile!
 
