@@ -46,11 +46,7 @@ I'm a results-driven developer who thrives on creating exceptional user experien
 - Hitting the gym for a good workout
 
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva-khewle&show_icons=true&hide_border=true)
-
-Feel free to get in touch, and let's create something extraordinary together!
 
 
 <!--
