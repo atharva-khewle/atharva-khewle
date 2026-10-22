@@ -40,8 +40,15 @@ Open to Blockchain and AI development roles.
 
 atharvamainwork@gmail.com · [LinkedIn](https://linkedin.com/in/atharvakhewle) · [Twitter](https://x.com/atharvamainwork)
 
-When I'm not coding, I'm usually reading. *The Hitchhiker's Guide to the Galaxy*, Orwell's *1984* and *Attack on Titan* are my all-time favourites.
-
-The rest of the time I'm at the gym or hanging out with my cats.
-
-If you're into any of these, or building something in Web3 or AI, say hi. I'm always up for a good conversation.
+<table>
+  <tr>
+    <td>
+      - Outside of code, it's books, the gym, and cats who supervise my work.
+      <br>
+      - <b>Stories I keep coming back to:</b> <i>The Hitchhiker's Guide to the Galaxy</i>, <i>1984</i>, <i>Attack on Titan</i>
+      <br>
+      - Always happy to trade book recs or build something weird.<br>
+      Don't panic, I'm friendly.
+    </td>
+  </tr>
+</table>
