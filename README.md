@@ -3,7 +3,7 @@
 Blockchain and AI developer. I build smart contracts and like finding ways to break them.
 
 - **Blockchain:** Solidity, Foundry, OpenZeppelin, Hyperledger Fabric.
-- **Security:** [Flash Token Protector](https://github.com/atharva-khewle/flash-token-protector), detects fake USDT and address poisoning on BSC, Ethereum and Tron.
+- **Security:** [Flash Token Protector](https://github.com/atharva-khewle/flash-token-protector), detects fake USDT and address poisoning on BSC, Ethereum and Tron. Credited in the [Priors security record](https://github.com/priors-agents/priors/blob/a24ba2f/docs/SECURITY-v2.md#L346) for a privately disclosed finding.
 - **AI:** threat detection models at [Cloudcore.global](https://cloudcore.global) (co-founder, 2025-2026), RAG chatbots, LLM voice pipelines.
 - **Full-stack:** led the 17-person team behind the [official TSEC app](https://play.google.com/store/apps/details?id=com.madclubtsec.tsec_application), 1,500+ monthly users.
 - **Top 3 hackathon wins:** CODEUTSAVA 8.0 (NIT Raipur), Codeissance, Hackcelestial.
